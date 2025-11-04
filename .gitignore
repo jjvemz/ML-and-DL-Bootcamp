@@ -1,0 +1,10 @@
+# Python specific files and directories
+__pycache__/
+*.pyc
+*.log
+
+# Conda environment
+env/
+
+# Environment variables
+.env
